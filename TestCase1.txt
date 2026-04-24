@@ -1,0 +1,515 @@
+aviral@aviral-Aspire-Lite-AL15-52:~$ whoami
+aviral
+aviral@aviral-Aspire-Lite-AL15-52:~$ w
+ 13:46:32 up 13:14,  1 user,  load average: 1.53, 1.82, 1.33
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+aviral   tty2     -                00:35   13:14m  1:32   0.10s /usr/libexec/gnome-session-bi
+aviral@aviral-Aspire-Lite-AL15-52:~$ last
+aviral   :1           :1               Fri Apr 24 00:35   still logged in
+aviral   seat0        login screen     Fri Apr 24 00:35   still logged in
+reboot   system boot  6.14.0-37-generi Fri Apr 24 00:32   still running
+aviral   :1           :1               Fri Apr 24 00:05 - down   (00:23)
+aviral   seat0        login screen     Fri Apr 24 00:05 - down   (00:23)
+reboot   system boot  6.14.0-37-generi Fri Apr 24 00:05 - 00:28  (00:23)
+aviral   :1           :1               Thu Apr 23 13:26 - down   (10:38)
+aviral   seat0        login screen     Thu Apr 23 13:26 - down   (10:38)
+reboot   system boot  6.14.0-37-generi Thu Apr 23 13:26 - 00:05  (10:38)
+aviral   :1           :1               Thu Apr 23 01:00 - down   (12:23)
+aviral   seat0        login screen     Thu Apr 23 01:00 - down   (12:23)
+aviral   :1           :1               Wed Apr 22 20:22 - 01:00  (04:37)
+aviral   seat0        login screen     Wed Apr 22 20:22 - 01:00  (04:37)
+reboot   system boot  6.14.0-37-generi Wed Apr 22 20:22 - 13:24  (17:02)
+aviral   :1           :1               Wed Apr 22 20:17 - down   (00:03)
+aviral   seat0        login screen     Wed Apr 22 20:17 - down   (00:03)
+reboot   system boot  6.14.0-37-generi Wed Apr 22 20:16 - 20:21  (00:04)
+aviral   :1           :1               Wed Apr 22 20:08 - down   (00:00)
+aviral   seat0        login screen     Wed Apr 22 20:07 - down   (00:00)
+reboot   system boot  6.14.0-37-generi Wed Apr 22 20:07 - 20:08  (00:01)
+aviral   :1           :1               Sat Apr 18 14:58 - down  (4+05:08)
+aviral   seat0        login screen     Sat Apr 18 14:58 - down  (4+05:08)
+reboot   system boot  6.14.0-37-generi Sat Apr 18 14:57 - 20:06 (4+05:08)
+aviral   :1           :1               Fri Apr 17 22:19 - crash  (16:38)
+aviral   seat0        login screen     Fri Apr 17 22:19 - crash  (16:38)
+reboot   system boot  6.14.0-37-generi Fri Apr 17 22:17 - 20:06 (4+21:48)
+aviral   :1           :1               Mon Apr 13 00:12 - down  (4+22:01)
+aviral   seat0        login screen     Mon Apr 13 00:12 - down  (4+22:01)
+aviral   :1           :1               Sun Apr 12 11:40 - 00:12  (12:31)
+aviral   seat0        login screen     Sun Apr 12 11:40 - 00:12  (12:32)
+reboot   system boot  6.14.0-37-generi Sun Apr 12 11:39 - 22:14 (5+10:34)
+aviral   :1           :1               Sat Apr 11 11:52 - down   (23:46)
+aviral   seat0        login screen     Sat Apr 11 11:52 - down   (23:46)
+reboot   system boot  6.14.0-37-generi Sat Apr 11 11:51 - 11:39  (23:47)
+aviral   :1           :1               Fri Apr 10 23:45 - down   (00:00)
+aviral   seat0        login screen     Fri Apr 10 23:45 - down   (00:00)
+aviral   :1           :1               Fri Apr 10 15:42 - 23:01  (07:18)
+aviral   seat0        login screen     Fri Apr 10 15:42 - 23:45  (08:02)
+reboot   system boot  6.14.0-37-generi Fri Apr 10 15:42 - 23:45  (08:03)
+aviral   :1           :1               Tue Mar 31 13:52 - down  (10+01:49)
+aviral   seat0        login screen     Tue Mar 31 13:52 - down  (10+01:49)
+reboot   system boot  6.14.0-37-generi Tue Mar 31 13:52 - 15:41 (10+01:49)
+aviral   :1           :1               Tue Mar 31 13:49 - down   (00:02)
+aviral   seat0        login screen     Tue Mar 31 13:49 - down   (00:02)
+reboot   system boot  6.14.0-37-generi Tue Mar 31 13:49 - 13:51  (00:02)
+aviral   :1           :1               Tue Mar 31 13:32 - down   (00:16)
+aviral   seat0        login screen     Tue Mar 31 13:32 - down   (00:16)
+reboot   system boot  6.14.0-37-generi Tue Mar 31 13:31 - 13:48  (00:17)
+aviral   :1           :1               Tue Mar 31 00:25 - down   (11:25)
+aviral   seat0        login screen     Tue Mar 31 00:25 - down   (11:25)
+aviral   :1           :1               Mon Mar 30 23:44 - 00:25  (00:41)
+aviral   seat0        login screen     Mon Mar 30 23:44 - 00:25  (00:41)
+aviral   :1           :1               Sun Mar 29 22:14 - 23:44 (1+01:29)
+aviral   seat0        login screen     Sun Mar 29 22:14 - 23:44 (1+01:29)
+reboot   system boot  6.14.0-37-generi Sun Mar 29 22:13 - 11:51 (1+13:37)
+aviral   :1           :1               Thu Mar 26 16:07 - down  (3+06:05)
+aviral   seat0        login screen     Thu Mar 26 16:07 - down  (3+06:05)
+reboot   system boot  6.14.0-37-generi Thu Mar 26 16:03 - 22:13 (3+06:09)
+aviral   :1           :1               Sun Mar 22 13:56 - down  (4+00:34)
+aviral   seat0        login screen     Sun Mar 22 13:56 - down  (4+00:34)
+reboot   system boot  6.14.0-37-generi Sun Mar 22 13:56 - 14:30 (4+00:34)
+aviral   :1           :1               Fri Mar 20 12:55 - crash (2+01:00)
+aviral   seat0        login screen     Fri Mar 20 12:55 - crash (2+01:00)
+reboot   system boot  6.14.0-37-generi Fri Mar 20 12:54 - 14:30 (6+01:36)
+aviral   :1           :1               Wed Mar 18 21:43 - down  (1+13:52)
+aviral   seat0        login screen     Wed Mar 18 21:43 - down  (1+13:52)
+reboot   system boot  6.14.0-37-generi Wed Mar 18 21:43 - 11:36 (1+13:53)
+aman     :2           :2               Mon Mar 16 15:38 - down  (1+20:40)
+aman     seat0        login screen     Mon Mar 16 15:38 - down  (1+20:40)
+aviral   :1           :1               Sat Mar 14 15:23 - down  (3+20:56)
+aviral   seat0        login screen     Sat Mar 14 15:23 - 15:38 (2+00:15)
+reboot   system boot  6.14.0-37-generi Sat Mar 14 15:22 - 12:19 (3+20:56)
+aviral   :1           :1               Fri Mar 13 21:26 - down   (04:51)
+aviral   seat0        login screen     Fri Mar 13 21:26 - down   (04:51)
+reboot   system boot  6.14.0-37-generi Fri Mar 13 13:21 - 02:18  (12:56)
+aviral   :1           :1               Thu Mar 12 19:23 - down   (17:53)
+aviral   seat0        login screen     Thu Mar 12 19:23 - down   (17:53)
+reboot   system boot  6.14.0-37-generi Thu Mar 12 19:21 - 13:17  (17:56)
+aviral   :1           :1               Tue Mar 10 00:05 - down  (2+19:15)
+aviral   seat0        login screen     Tue Mar 10 00:05 - down  (2+19:15)
+reboot   system boot  6.14.0-37-generi Tue Mar 10 00:05 - 19:20 (2+19:15)
+aviral   :1           :1               Sat Mar  7 20:57 - crash (2+03:07)
+aviral   seat0        login screen     Sat Mar  7 20:57 - crash (2+03:07)
+reboot   system boot  6.14.0-37-generi Sat Mar  7 20:18 - 19:20 (4+23:02)
+aviral   :1           :1               Sat Mar  7 09:37 - crash  (10:40)
+aviral   seat0        login screen     Sat Mar  7 09:37 - crash  (10:41)
+reboot   system boot  6.14.0-37-generi Sat Mar  7 09:31 - 19:20 (5+09:49)
+aviral   :1           :1               Sat Feb 28 21:18 - down   (00:02)
+aviral   seat0        login screen     Sat Feb 28 21:18 - down   (00:03)
+reboot   system boot  6.14.0-37-generi Sat Feb 28 21:17 - 21:21  (00:03)
+aviral   :1           :1               Sat Feb 28 19:53 - down   (01:02)
+aviral   seat0        login screen     Sat Feb 28 19:53 - down   (01:02)
+reboot   system boot  6.14.0-37-generi Sat Feb 28 19:53 - 20:56  (01:02)
+aviral   :1           :1               Sat Feb 28 16:54 - down   (00:01)
+aviral   seat0        login screen     Sat Feb 28 16:54 - down   (00:01)
+reboot   system boot  6.14.0-37-generi Sat Feb 28 16:54 - 16:56  (00:02)
+aviral   :1           :1               Fri Feb 27 18:42 - down   (00:01)
+aviral   seat0        login screen     Fri Feb 27 18:41 - down   (00:01)
+reboot   system boot  6.14.0-37-generi Fri Feb 27 18:41 - 18:43  (00:01)
+aviral   :1           :1               Sat Feb 14 09:25 - crash (13+09:16)
+aviral   seat0        login screen     Sat Feb 14 09:25 - crash (13+09:16)
+reboot   system boot  6.14.0-37-generi Sat Feb 14 09:24 - 18:43 (13+09:18)
+aviral   :1           :1               Fri Feb 13 23:52 - down   (00:10)
+aviral   seat0        login screen     Fri Feb 13 23:52 - down   (00:10)
+reboot   system boot  6.14.0-37-generi Fri Feb 13 23:52 - 00:03  (00:11)
+aviral   :1           :1               Fri Feb 13 22:51 - down   (00:13)
+aviral   seat0        login screen     Fri Feb 13 22:51 - down   (00:13)
+reboot   system boot  6.14.0-37-generi Fri Feb 13 22:51 - 23:05  (00:14)
+aviral   :1           :1               Thu Feb 12 22:49 - down  (1+00:01)
+aviral   seat0        login screen     Thu Feb 12 22:49 - down  (1+00:01)
+reboot   system boot  6.14.0-37-generi Thu Feb 12 22:48 - 22:51 (1+00:02)
+aviral   :1           :1               Tue Feb 10 15:57 - down  (2+06:43)
+aviral   seat0        login screen     Tue Feb 10 15:57 - down  (2+06:43)
+reboot   system boot  6.14.0-37-generi Tue Feb 10 15:56 - 22:40 (2+06:43)
+aviral   :1           :1               Wed Jan 28 09:21 - crash (13+06:34)
+aviral   seat0        login screen     Wed Jan 28 09:21 - crash (13+06:34)
+reboot   system boot  6.14.0-37-generi Wed Jan 28 09:21 - 22:40 (15+13:19)
+aviral   :1           :1               Mon Jan 26 13:24 - down  (1+12:27)
+aviral   seat0        login screen     Mon Jan 26 13:24 - down  (1+12:27)
+reboot   system boot  6.14.0-37-generi Mon Jan 26 13:24 - 01:51 (1+12:27)
+aviral   :1           :1               Thu Jan 22 13:47 - down  (3+09:23)
+aviral   seat0        login screen     Thu Jan 22 13:47 - down  (3+09:23)
+reboot   system boot  6.14.0-37-generi Thu Jan 22 13:18 - 23:11 (3+09:53)
+aviral   :1           :1               Tue Jan 20 21:42 - down   (01:16)
+aviral   seat0        login screen     Tue Jan 20 21:42 - down   (01:16)
+reboot   system boot  6.14.0-37-generi Tue Jan 20 21:42 - 22:58  (01:16)
+aviral   :1           :1               Tue Jan 20 21:20 - down   (00:17)
+aviral   seat0        login screen     Tue Jan 20 21:20 - down   (00:18)
+reboot   system boot  6.14.0-37-generi Tue Jan 20 21:19 - 21:38  (00:18)
+aviral   :1           :1               Sun Jan 18 22:33 - crash (1+22:45)
+aviral   seat0        login screen     Sun Jan 18 22:33 - crash (1+22:46)
+reboot   system boot  6.14.0-37-generi Sun Jan 18 22:33 - 21:38 (1+23:04)
+aviral   :1           :1               Sun Jan 18 18:37 - crash  (03:56)
+aviral   seat0        login screen     Sun Jan 18 18:37 - crash  (03:56)
+reboot   system boot  6.14.0-37-generi Sun Jan 18 18:36 - 21:38 (2+03:01)
+aviral   :1           :1               Sun Jan 18 17:14 - down   (01:21)
+aviral   seat0        login screen     Sun Jan 18 17:14 - down   (01:21)
+aviral   :1           :1               Wed Jan 14 20:37 - 17:14 (3+20:36)
+aviral   seat0        login screen     Wed Jan 14 20:37 - 17:14 (3+20:37)
+reboot   system boot  6.14.0-37-generi Wed Jan 14 20:36 - 18:36 (3+21:59)
+aviral   :1           :1               Tue Jan 13 13:30 - down  (1+06:38)
+aviral   seat0        login screen     Tue Jan 13 13:30 - down  (1+06:38)
+reboot   system boot  6.14.0-37-generi Tue Jan 13 13:30 - 20:09 (1+06:38)
+aviral   :1           :1               Tue Jan 13 12:32 - crash  (00:57)
+aviral   seat0        login screen     Tue Jan 13 12:32 - crash  (00:57)
+reboot   system boot  6.14.0-37-generi Tue Jan 13 12:31 - 20:09 (1+07:37)
+aviral   :1           :1               Fri Jan  9 12:55 - crash (3+23:36)
+aviral   seat0        login screen     Fri Jan  9 12:55 - crash (3+23:36)
+reboot   system boot  6.14.0-37-generi Fri Jan  9 12:54 - 20:09 (5+07:14)
+aviral   :1           :1               Thu Jan  8 10:08 - down   (00:06)
+aviral   seat0        login screen     Thu Jan  8 10:08 - down   (00:06)
+reboot   system boot  6.14.0-37-generi Thu Jan  8 10:08 - 10:15  (00:07)
+aviral   :1           :1               Thu Jan  8 08:48 - down   (00:02)
+aviral   seat0        login screen     Thu Jan  8 08:48 - down   (00:02)
+reboot   system boot  6.14.0-37-generi Thu Jan  8 08:48 - 08:51  (00:02)
+aviral   :1           :1               Thu Jan  8 08:35 - down   (00:05)
+aviral   seat0        login screen     Thu Jan  8 08:35 - down   (00:05)
+reboot   system boot  6.14.0-37-generi Thu Jan  8 08:35 - 08:41  (00:06)
+aviral   :1           :1               Thu Jan  8 08:09 - down   (00:00)
+aviral   seat0        login screen     Thu Jan  8 08:09 - down   (00:00)
+reboot   system boot  6.14.0-37-generi Thu Jan  8 08:08 - 08:09  (00:00)
+aviral   :1           :1               Mon Jan  5 18:24 - down  (2+13:34)
+aviral   seat0        login screen     Mon Jan  5 18:24 - down  (2+13:34)
+reboot   system boot  6.14.0-37-generi Mon Jan  5 18:24 - 07:59 (2+13:34)
+aviral   :1           :1               Mon Jan  5 12:16 - down   (06:07)
+aviral   seat0        login screen     Mon Jan  5 12:16 - down   (06:07)
+reboot   system boot  6.14.0-37-generi Mon Jan  5 12:16 - 18:23  (06:07)
+aviral   :1           :1               Mon Dec 29 19:52 - crash (6+16:23)
+aviral   seat0        login screen     Mon Dec 29 19:52 - crash (6+16:23)
+reboot   system boot  6.14.0-37-generi Mon Dec 29 19:51 - 18:23 (6+22:32)
+aviral   :1           :1               Sun Dec 28 17:07 - down  (1+01:58)
+aviral   seat0        login screen     Sun Dec 28 17:07 - down  (1+01:58)
+reboot   system boot  6.14.0-37-generi Sun Dec 28 17:07 - 19:06 (1+01:58)
+aviral   :1           :1               Sun Dec 28 16:54 - down   (00:12)
+aviral   seat0        login screen     Sun Dec 28 16:54 - down   (00:12)
+reboot   system boot  6.14.0-37-generi Sun Dec 28 16:52 - 17:07  (00:14)
+aviral   :1           :1               Sat Dec 27 20:06 - down   (20:45)
+aviral   seat0        login screen     Sat Dec 27 20:06 - down   (20:45)
+reboot   system boot  6.14.0-37-generi Sat Dec 27 20:06 - 16:52  (20:45)
+aviral   :1           :1               Thu Dec 25 14:23 - down  (2+05:42)
+aviral   seat0        login screen     Thu Dec 25 14:23 - down  (2+05:42)
+reboot   system boot  6.14.0-37-generi Thu Dec 25 14:23 - 20:06 (2+05:42)
+aviral   :1           :1               Wed Dec 17 23:37 - down  (7+14:45)
+aviral   seat0        login screen     Wed Dec 17 23:37 - down  (7+14:45)
+reboot   system boot  6.14.0-37-generi Wed Dec 17 23:37 - 14:22 (7+14:45)
+aviral   :1           :1               Wed Dec 17 23:09 - down   (00:00)
+aviral   seat0        login screen     Wed Dec 17 23:09 - down   (00:00)
+reboot   system boot  6.14.0-37-generi Wed Dec 17 23:09 - 23:10  (00:00)
+aviral   :1           :1               Thu Dec 18 01:05 - down   (-5:16)
+aviral   seat0        login screen     Thu Dec 18 01:05 - down   (-5:16)
+reboot   system boot  6.14.0-37-generi Thu Dec 18 01:04 - 19:48  (-5:16)
+aviral   :1           :1               Mon Dec 15 20:05 - down  (1+20:03)
+aviral   seat0        login screen     Mon Dec 15 20:05 - down  (1+20:03)
+reboot   system boot  6.14.0-36-generi Mon Dec 15 20:05 - 16:08 (1+20:03)
+aviral   :1           :1               Wed Dec 10 23:01 - crash (4+21:04)
+aviral   seat0        login screen     Wed Dec 10 23:01 - crash (4+21:04)
+reboot   system boot  6.14.0-36-generi Wed Dec 10 23:00 - 16:08 (6+17:08)
+aviral   :1           :1               Wed Dec 10 19:30 - crash  (03:30)
+aviral   seat0        login screen     Wed Dec 10 19:30 - crash  (03:30)
+reboot   system boot  6.14.0-36-generi Wed Dec 10 19:29 - 16:08 (6+20:39)
+aviral   :1           :1               Tue Dec  9 21:21 - down   (22:07)
+aviral   seat0        login screen     Tue Dec  9 21:21 - down   (22:07)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 21:21 - 19:29  (22:07)
+aviral   :1           :1               Tue Dec  9 17:38 - crash  (03:43)
+aviral   seat0        login screen     Tue Dec  9 17:38 - crash  (03:43)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 17:37 - 19:29 (1+01:51)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 17:37 - 17:37  (00:00)
+aviral   :1           :1               Tue Dec  9 02:01 - crash  (15:36)
+aviral   seat0        login screen     Tue Dec  9 02:01 - crash  (15:36)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 02:00 - 17:37  (15:36)
+aviral   :1           :1               Tue Dec  9 01:06 - crash  (00:53)
+aviral   seat0        login screen     Tue Dec  9 01:06 - crash  (00:53)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 01:04 - 17:37  (16:33)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 00:59 - 01:02  (00:02)
+reboot   system boot  6.14.0-36-generi Tue Dec  9 00:57 - 00:58  (00:01)
+aviral   :1           :1               Mon Dec  8 17:43 - down   (07:13)
+aviral   seat0        login screen     Mon Dec  8 17:42 - down   (07:13)
+reboot   system boot  6.14.0-36-generi Mon Dec  8 17:42 - 00:56  (07:14)
+aviral   :1           :1               Mon Dec  8 10:57 - crash  (06:45)
+aviral   seat0        login screen     Mon Dec  8 10:57 - crash  (06:45)
+reboot   system boot  6.14.0-36-generi Mon Dec  8 10:56 - 00:56  (13:59)
+aviral   :1           :1               Sat Nov 29 12:00 - crash (8+22:56)
+aviral   seat0        login screen     Sat Nov 29 11:59 - crash (8+22:56)
+reboot   system boot  6.14.0-33-generi Sat Nov 29 11:59 - 00:56 (9+12:57)
+aviral   tty2         tty2             Thu Nov 27 17:06 - down  (1+07:14)
+aviral   seat0        login screen     Thu Nov 27 17:06 - down  (1+07:14)
+reboot   system boot  6.14.0-33-generi Thu Nov 27 17:05 - 00:20 (1+07:14)
+aviral   tty2         tty2             Sun Nov 23 12:15 - down  (4+03:54)
+aviral   seat0        login screen     Sun Nov 23 12:15 - down  (4+03:54)
+reboot   system boot  6.14.0-33-generi Sun Nov 23 12:09 - 16:10 (4+04:00)
+aviral   tty2         tty2             Sun Nov 23 11:42 - crash  (00:26)
+aviral   seat0        login screen     Sun Nov 23 11:42 - crash  (00:26)
+reboot   system boot  6.14.0-33-generi Sun Nov 23 11:42 - 16:10 (4+04:27)
+aviral   tty2         tty2             Wed Nov 19 00:26 - crash (4+11:16)
+aviral   seat0        login screen     Wed Nov 19 00:26 - crash (4+11:16)
+reboot   system boot  6.14.0-33-generi Wed Nov 19 00:26 - 16:10 (8+15:44)
+aviral   tty2         tty2             Sat Nov 15 12:12 - down  (3+11:50)
+aviral   seat0        login screen     Sat Nov 15 12:12 - down  (3+11:50)
+reboot   system boot  6.14.0-33-generi Sat Nov 15 12:12 - 00:03 (3+11:51)
+aviral   tty2         tty2             Thu Nov 13 16:51 - down  (1+07:14)
+aviral   seat0        login screen     Thu Nov 13 16:51 - down  (1+07:14)
+reboot   system boot  6.14.0-33-generi Thu Nov 13 16:05 - 00:05 (1+08:00)
+aviral   tty2         tty2             Thu Nov 13 10:16 - down   (05:44)
+aviral   seat0        login screen     Thu Nov 13 10:16 - down   (05:44)
+reboot   system boot  6.14.0-33-generi Thu Nov 13 10:16 - 16:00  (05:44)
+aviral   tty2         tty2             Wed Nov 12 15:44 - down   (09:17)
+aviral   seat0        login screen     Wed Nov 12 15:44 - down   (09:17)
+reboot   system boot  6.14.0-33-generi Wed Nov 12 15:44 - 01:02  (09:17)
+aviral   tty2         tty2             Wed Nov 12 15:07 - down   (00:36)
+aviral   seat0        login screen     Wed Nov 12 15:07 - down   (00:36)
+reboot   system boot  6.14.0-33-generi Wed Nov 12 15:06 - 15:43  (00:37)
+aviral   tty2         tty2             Tue Nov 11 19:08 - down   (05:02)
+aviral   seat0        login screen     Tue Nov 11 19:08 - down   (05:02)
+reboot   system boot  6.14.0-33-generi Tue Nov 11 19:08 - 00:11  (05:02)
+aviral   tty2         tty2             Tue Nov 11 11:02 - down   (00:00)
+aviral   seat0        login screen     Tue Nov 11 11:02 - down   (00:00)
+reboot   system boot  6.14.0-33-generi Tue Nov 11 11:01 - 11:03  (00:02)
+aviral   tty2         tty2             Mon Nov 10 22:05 - down   (12:54)
+aviral   seat0        login screen     Mon Nov 10 22:05 - down   (12:54)
+reboot   system boot  6.14.0-33-generi Mon Nov 10 22:05 - 11:00  (12:55)
+aviral   tty2         tty2             Mon Nov 10 16:37 - down   (00:52)
+aviral   seat0        login screen     Mon Nov 10 16:37 - down   (00:52)
+reboot   system boot  6.14.0-33-generi Mon Nov 10 16:36 - 17:29  (00:52)
+aviral   tty2         tty2             Wed Nov  5 13:41 - down  (4+08:04)
+aviral   seat0        login screen     Wed Nov  5 13:41 - down  (4+08:04)
+reboot   system boot  6.14.0-33-generi Wed Nov  5 13:41 - 21:45 (4+08:04)
+aviral   tty2         tty2             Wed Nov  5 10:03 - down   (03:37)
+aviral   seat0        login screen     Wed Nov  5 10:03 - down   (03:37)
+reboot   system boot  6.14.0-33-generi Wed Nov  5 10:02 - 13:40  (03:38)
+aviral   tty2         tty2             Tue Nov  4 10:07 - down   (23:54)
+aviral   seat0        login screen     Tue Nov  4 10:07 - down   (23:54)
+reboot   system boot  6.14.0-33-generi Tue Nov  4 10:07 - 10:01  (23:54)
+aviral   tty2         tty2             Mon Nov  3 11:05 - down   (13:35)
+aviral   seat0        login screen     Mon Nov  3 11:05 - down   (13:35)
+reboot   system boot  6.14.0-33-generi Mon Nov  3 11:04 - 00:41  (13:36)
+aviral   tty2         tty2             Thu Oct 30 17:29 - down  (3+17:35)
+aviral   seat0        login screen     Thu Oct 30 17:29 - down  (3+17:35)
+aviral   tty2         tty2             Tue Oct 28 21:47 - 17:06 (1+19:18)
+aviral   seat0        login screen     Tue Oct 28 21:47 - 17:29 (1+19:41)
+reboot   system boot  6.14.0-33-generi Tue Oct 28 21:47 - 11:04 (5+13:17)
+aviral   tty2         tty2             Tue Oct 28 11:01 - down   (04:36)
+aviral   seat0        login screen     Tue Oct 28 11:01 - down   (04:36)
+reboot   system boot  6.14.0-33-generi Tue Oct 28 11:00 - 15:38  (04:37)
+aviral   tty2         tty2             Mon Oct 27 11:00 - down   (11:21)
+aviral   seat0        login screen     Mon Oct 27 11:00 - down   (11:21)
+reboot   system boot  6.14.0-33-generi Sat Oct 25 22:56 - 22:21 (1+23:24)
+aviral   tty2         tty2             Sat Oct 25 22:50 - down   (00:00)
+aviral   seat0        login screen     Sat Oct 25 22:50 - down   (00:00)
+reboot   system boot  6.14.0-33-generi Sat Oct 25 22:49 - 22:50  (00:00)
+aviral   tty2         tty2             Sat Oct 25 12:07 - down   (09:52)
+aviral   seat0        login screen     Sat Oct 25 12:07 - down   (09:52)
+reboot   system boot  6.14.0-33-generi Sat Oct 25 12:07 - 22:00  (09:53)
+aviral   tty2         tty2             Sat Oct 25 00:28 - down   (00:35)
+aviral   seat0        login screen     Sat Oct 25 00:28 - down   (00:35)
+reboot   system boot  6.14.0-33-generi Sat Oct 25 00:28 - 01:04  (00:35)
+aviral   tty2         tty2             Fri Oct 24 19:49 - down   (03:52)
+aviral   seat0        login screen     Fri Oct 24 19:49 - down   (03:52)
+reboot   system boot  6.14.0-33-generi Fri Oct 24 19:49 - 23:42  (03:53)
+aviral   tty2         tty2             Fri Oct 24 15:50 - down   (02:04)
+aviral   seat0        login screen     Fri Oct 24 15:50 - down   (02:04)
+reboot   system boot  6.14.0-33-generi Fri Oct 24 15:50 - 17:55  (02:04)
+aviral   tty2         tty2             Thu Oct 23 23:53 - down   (15:52)
+aviral   seat0        login screen     Thu Oct 23 23:53 - down   (15:52)
+reboot   system boot  6.14.0-33-generi Thu Oct 23 23:52 - 15:45  (15:52)
+aviral   tty2         tty2             Thu Oct 23 20:29 - down   (01:25)
+aviral   seat0        login screen     Thu Oct 23 20:29 - down   (01:25)
+reboot   system boot  6.14.0-33-generi Thu Oct 23 20:28 - 21:54  (01:26)
+aviral   tty2         tty2             Wed Oct 22 22:45 - down   (00:00)
+aviral   seat0        login screen     Wed Oct 22 22:45 - down   (00:00)
+reboot   system boot  6.14.0-33-generi Wed Oct 22 22:45 - 22:46  (00:00)
+aviral   tty2         tty2             Mon Oct 20 12:31 - crash (2+10:13)
+aviral   seat0        login screen     Mon Oct 20 12:31 - crash (2+10:13)
+reboot   system boot  6.14.0-33-generi Mon Oct 20 12:28 - 22:46 (2+10:17)
+aviral   tty2         tty2             Sat Oct 18 10:45 - down   (12:30)
+aviral   seat0        login screen     Sat Oct 18 10:45 - down   (12:30)
+reboot   system boot  6.14.0-29-generi Sat Oct 18 10:42 - 23:15  (12:32)
+aviral   tty2         tty2             Thu Oct 16 22:25 - down   (01:50)
+aviral   seat0        login screen     Thu Oct 16 22:25 - down   (01:50)
+reboot   system boot  6.14.0-29-generi Thu Oct 16 22:21 - 00:16  (01:54)
+aviral   tty2         tty2             Thu Oct 16 07:31 - down   (02:33)
+aviral   seat0        login screen     Thu Oct 16 07:31 - down   (02:33)
+reboot   system boot  6.14.0-29-generi Thu Oct 16 07:31 - 10:05  (02:34)
+aviral   tty2         tty2             Wed Oct 15 13:28 - down   (04:09)
+aviral   seat0        login screen     Wed Oct 15 13:28 - down   (04:09)
+reboot   system boot  6.14.0-29-generi Wed Oct 15 13:27 - 17:37  (04:10)
+aviral   tty2         tty2             Tue Oct 14 08:46 - down  (1+02:09)
+aviral   seat0        login screen     Tue Oct 14 08:46 - down  (1+02:09)
+reboot   system boot  6.14.0-29-generi Tue Oct 14 08:46 - 10:56 (1+02:09)
+aviral   tty2         tty2             Mon Oct 13 23:26 - down   (00:01)
+aviral   seat0        login screen     Mon Oct 13 23:26 - down   (00:01)
+reboot   system boot  6.14.0-29-generi Mon Oct 13 23:26 - 23:28  (00:02)
+aviral   tty2         tty2             Mon Oct 13 22:42 - down   (00:14)
+aviral   seat0        login screen     Mon Oct 13 22:42 - down   (00:14)
+reboot   system boot  6.14.0-29-generi Tue Oct 14 04:11 - 22:56  (-5:15)
+aviral   tty2         tty2             Sat Oct 11 22:11 - down  (1+21:47)
+aviral   seat0        login screen     Sat Oct 11 22:11 - down  (1+21:47)
+reboot   system boot  6.14.0-29-generi Sat Oct 11 22:11 - 19:59 (1+21:48)
+aviral   tty2         tty2             Sat Oct 11 18:25 - 22:10  (03:45)
+aviral   seat0        login screen     Sat Oct 11 18:25 - down   (03:45)
+reboot   system boot  6.14.0-29-generi Sat Oct 11 18:24 - 22:10  (03:46)
+aviral   tty2         tty2             Fri Oct 10 18:17 - down   (23:19)
+aviral   seat0        login screen     Fri Oct 10 18:17 - down   (23:19)
+reboot   system boot  6.14.0-29-generi Fri Oct 10 18:17 - 17:37  (23:19)
+aviral   tty2         tty2             Thu Oct  9 16:40 - down   (08:08)
+aviral   seat0        login screen     Thu Oct  9 16:40 - down   (08:08)
+reboot   system boot  6.14.0-29-generi Thu Oct  9 22:09 - 00:48  (02:39)
+aviral   tty2         tty2             Tue Oct  7 15:26 - 00:08 (1+08:42)
+aviral   seat0        login screen     Tue Oct  7 15:26 - down  (1+08:42)
+reboot   system boot  6.14.0-29-generi Tue Oct  7 15:25 - 00:08 (1+08:42)
+aviral   tty2         tty2             Tue Oct  7 03:20 - down   (00:00)
+aviral   seat0        login screen     Tue Oct  7 03:20 - down   (00:00)
+reboot   system boot  6.14.0-29-generi Tue Oct  7 03:20 - 03:20  (00:00)
+aviral   tty2         tty2             Sun Oct  5 09:43 - down  (1+11:08)
+aviral   seat0        login screen     Sun Oct  5 09:43 - down  (1+11:08)
+reboot   system boot  6.14.0-29-generi Sun Oct  5 09:43 - 20:52 (1+11:08)
+aviral   tty2         tty2             Sat Oct  4 09:30 - down   (15:45)
+aviral   seat0        login screen     Sat Oct  4 09:30 - down   (15:45)
+reboot   system boot  6.14.0-29-generi Sat Oct  4 09:28 - 01:15  (15:46)
+aviral   tty2         tty2             Fri Oct  3 01:20 - down   (21:40)
+aviral   seat0        login screen     Fri Oct  3 01:20 - down   (21:40)
+reboot   system boot  6.14.0-29-generi Fri Oct  3 01:20 - 23:00  (21:40)
+aviral   tty2         tty2             Wed Oct  1 21:35 - down   (18:17)
+aviral   seat0        login screen     Wed Oct  1 21:35 - down   (18:17)
+reboot   system boot  6.14.0-29-generi Wed Oct  1 21:35 - 15:53  (18:18)
+aviral   tty2         tty2             Wed Oct  1 16:00 - down   (02:56)
+aviral   seat0        login screen     Wed Oct  1 16:00 - down   (02:56)
+reboot   system boot  6.14.0-29-generi Wed Oct  1 15:59 - 18:56  (02:56)
+aviral   tty2         tty2             Tue Sep 30 22:48 - 22:49  (00:00)
+aviral   seat0        login screen     Tue Sep 30 22:48 - down   (00:00)
+reboot   system boot  6.14.0-29-generi Tue Sep 30 22:47 - 22:49  (00:01)
+aviral   tty2         tty2             Tue Sep 30 19:31 - down   (-00:50)
+aviral   seat0        login screen     Tue Sep 30 19:31 - down   (-00:50)
+reboot   system boot  6.14.0-29-generi Tue Sep 30 19:30 - 18:40  (-00:50)
+aviral   tty2         tty2             Tue Sep 30 10:57 - down   (00:06)
+aviral   seat0        login screen     Tue Sep 30 10:57 - down   (00:06)
+reboot   system boot  6.14.0-29-generi Tue Sep 30 10:56 - 11:04  (00:07)
+reboot   system boot  6.14.0-29-generi Tue Sep 30 10:05 - 10:07  (00:02)
+aviral   tty2         tty2             Thu Sep 25 09:09 - down  (4+15:48)
+aviral   seat0        login screen     Thu Sep 25 09:09 - down  (4+15:48)
+reboot   system boot  6.14.0-29-generi Thu Sep 25 09:09 - 00:58 (4+15:49)
+aviral   tty2         tty2             Wed Sep 24 18:03 - down   (05:57)
+aviral   seat0        login screen     Wed Sep 24 18:03 - down   (05:57)
+reboot   system boot  6.14.0-29-generi Wed Sep 24 18:03 - 00:00  (05:57)
+
+wtmp begins Wed Sep 24 18:03:17 2025
+aviral@aviral-Aspire-Lite-AL15-52:~$ uname -a && hostname && uptime
+Linux aviral-Aspire-Lite-AL15-52 6.14.0-37-generic #37~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 20 10:25:38 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+aviral-Aspire-Lite-AL15-52
+ 13:46:43 up 13:14,  1 user,  load average: 1.19, 1.73, 1.31
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo groupadd developers
+[sudo] password for aviral: 
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo groupadd qa
+groupadd: group 'qa' already exists
+aviral@aviral-Aspire-Lite-AL15-52:~$ getent group developers qa
+developers:x:1008:
+qa:x:1004:
+aviral@aviral-Aspire-Lite-AL15-52:~$ getent group
+root:x:0:
+daemon:x:1:
+bin:x:2:
+sys:x:3:
+adm:x:4:syslog,aviral
+tty:x:5:
+disk:x:6:
+lp:x:7:
+mail:x:8:
+news:x:9:
+uucp:x:10:
+man:x:12:
+proxy:x:13:
+kmem:x:15:
+dialout:x:20:aviral
+fax:x:21:
+voice:x:22:
+cdrom:x:24:aviral
+floppy:x:25:
+tape:x:26:
+sudo:x:27:aviral
+audio:x:29:
+dip:x:30:aviral
+www-data:x:33:
+backup:x:34:
+operator:x:37:
+list:x:38:
+irc:x:39:
+src:x:40:
+shadow:x:42:
+utmp:x:43:
+video:x:44:ollama
+sasl:x:45:
+plugdev:x:46:aviral
+staff:x:50:
+games:x:60:
+users:x:100:aviral,tempadmin
+nogroup:x:65534:
+systemd-journal:x:999:
+systemd-network:x:998:
+crontab:x:997:
+systemd-timesync:x:996:
+input:x:995:
+sgx:x:994:
+kvm:x:993:
+render:x:992:ollama
+messagebus:x:101:
+syslog:x:102:
+systemd-resolve:x:991:
+uuidd:x:103:
+_ssh:x:104:
+tss:x:105:
+ssl-cert:x:106:
+systemd-oom:x:990:
+bluetooth:x:107:
+rdma:x:108:
+whoopsie:x:109:
+netdev:x:110:
+avahi:x:111:
+tcpdump:x:112:
+sssd:x:113:
+lpadmin:x:114:aviral
+fwupd-refresh:x:989:
+scanner:x:115:saned
+saned:x:116:
+geoclue:x:117:
+pipewire:x:118:
+gnome-remote-desktop:x:988:
+polkitd:x:987:
+rtkit:x:119:
+colord:x:120:
+gdm:x:121:
+nm-openvpn:x:122:
+lxd:x:123:
+gamemode:x:986:
+gnome-initial-setup:x:985:
+aviral:x:1000:
+mysql:x:1001:
+debian-tor:x:124:
+_flatpak:x:125:
+tempadmin:x:1002:
+docker:x:126:aviral
+devlopers:x:1003:aman,karan
+qa:x:1004:
+aman:x:1005:
+karan:x:1007:
+wireshark:x:127:
+ollama:x:984:aviral
+developers:x:1008:
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo useradd -m -G developers aman
+useradd: user 'aman' already exists
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo useradd -m -G developers ritu
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo useradd -m -G developers aman
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo useradd -m -G developers ritu
+useradd: user 'ritu' already exists
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo useradd -m -G qa karan
+aviral@aviral-Aspire-Lite-AL15-52:~$ id aman
+uid=1007(aman) gid=1007(aman) groups=1007(aman),1008(developers)
+aviral@aviral-Aspire-Lite-AL15-52:~$ id ritu
+uid=1006(ritu) gid=1006(ritu) groups=1006(ritu),1008(developers)
+aviral@aviral-Aspire-Lite-AL15-52:~$ id karan
+uid=1008(karan) gid=1009(karan) groups=1009(karan),1004(qa)
+aviral@aviral-Aspire-Lite-AL15-52:~$ 
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo pkill -u ritu
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo userdel -r ritu
+userdel: ritu mail spool (/var/mail/ritu) not found
+aviral@aviral-Aspire-Lite-AL15-52:~$ id ritu
+id: ‘ritu’: no such user
+aviral@aviral-Aspire-Lite-AL15-52:~$ 
+
+

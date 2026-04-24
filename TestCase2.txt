@@ -1,0 +1,18 @@
+aviral@aviral-Aspire-Lite-AL15-52:~$ cd ~
+aviral@aviral-Aspire-Lite-AL15-52:~$ touch index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ echo "<html><body><h1>Welcome to the Web Server</h1></body></html>" > index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ ls -l index.html
+-rw-rw-r-- 1 aviral aviral 61 Apr 24 13:51 index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ chmod 777 index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ ls -l index.html
+-rwxrwxrwx 1 aviral aviral 61 Apr 24 13:51 index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo chown www-data:www-data index.html
+[sudo] password for aviral: 
+aviral@aviral-Aspire-Lite-AL15-52:~$ chmod 755 index.html
+chmod: changing permissions of 'index.html': Operation not permitted
+aviral@aviral-Aspire-Lite-AL15-52:~$ sudo chmod 755 index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ ls -l index.html
+-rwxr-xr-x 1 www-data www-data 61 Apr 24 13:51 index.html
+aviral@aviral-Aspire-Lite-AL15-52:~$ 
+
+
